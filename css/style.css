@@ -1,13 +1,13 @@
 * {
-    -webkit-box-sizing: border-box;
+    /* -webkit-box-sizing: border-box;
        -moz-box-sizing: border-box;
-            box-sizing: border-box;
+            box-sizing: border-box; */
 }
 h2{
     text-align:center;
 }
 h5{
-    text-align: center;
+    padding-left: 15%;
     
 }
 .titulo1{
