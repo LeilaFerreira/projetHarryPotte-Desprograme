@@ -1,0 +1,36 @@
+* {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+h2{
+    text-align:center;
+}
+h5{
+    text-align: center;
+    
+}
+.titulo1{
+    tex-aling: left;
+}
+
+p{
+   text-align:  center; 
+}
+
+a{
+    text-align: center;
+}
+fieldset{
+    background-color: rgb(194, 187, 187);
+    border-color: black;
+    
+}
+.textoCabecalho{
+    text-align: left;
+}
+.card{
+    border-width: 0px;
+    width: 80%;
+    left: 10%;
+}
